@@ -1,0 +1,22 @@
+body {
+	font-family: 'Nunito', sans-serif;
+	font-weight: bold;
+}
+.container {
+	background-color: rebeccapurple;
+	width: 800px;
+	height: auto;
+	font-size: 22px;
+	padding: 20px;
+}
+
+.container img {
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+	transition: all 1s;
+}
+
+.container img:hover {
+	transform: scale(1.1);
+}
