@@ -163,6 +163,7 @@ html {
 	width: 24vw;
 	height: 15vw;
 	object-fit: cover; /* *** */
+	box-shadow: 0.3rem 0.3rem 0.1rem #e92929;
 }
 
 .food-name {
